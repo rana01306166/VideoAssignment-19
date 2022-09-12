@@ -1,0 +1,116 @@
+.fixtwidth{
+    width:1100px;
+    margin: auto;
+}
+.text-center{
+    text-align: center;
+}
+.text-left{
+    text-align: left;
+}
+.text-right{
+    text-align: right;
+}
+
+/* css */
+.div1{
+    width: 30%;
+    box-shadow: 0 0 15px 0 rgb(209, 183, 183);
+    float: left;
+    margin: 15px;
+    transition: .4s;
+}
+.div1:hover{
+    box-shadow: 0 0 15px 0 rgb(119, 116, 116);
+    float: left;
+    background-color: beige;
+    color: rgb(31, 29, 29);
+    transform: scaleY(1.5 );
+}
+.div2{
+    width: 30%;
+    box-shadow: 0 0 15px 0 rgb(172, 108, 108);
+    float: left;
+    margin: 15px;
+    transition: .4s;
+}
+.div2:hover{
+    box-shadow: 0 0 15px 0 rgb(119, 116, 116);
+    float: left;
+    background-color: rgb(148, 148, 134);
+    color: #fff;
+}
+.details{
+    width: 30%;
+    box-shadow: 0 0 15px 0 rgb(172, 108, 108);
+    float: left;
+    margin: 15px;
+    transition: .4s;
+}
+.details:hover{
+    box-shadow: 0 0 15px 0 rgb(119, 116, 116);
+    float: left;
+    background-color: rgb(228, 228, 154);
+    color: #fff;
+}
+.figure{
+    width: 30%;
+    box-shadow: 0 0 15px 0 rgb(172, 108, 108);
+    float: left;
+    margin: 15px;
+    transition: .4s;
+}
+.figure:hover{
+    box-shadow: 0 0 15px 0 rgb(34, 33, 33);
+    float: left;
+    background-color: rgb(228, 228, 154);
+    color: #fff;
+}
+.marking{
+    width: 30%;
+    box-shadow: 0 0 15px 0 rgb(43, 42, 42);
+    float: left;
+    margin: 15px;
+    transition: .4s;
+}
+.marking:hover{
+    box-shadow: 0 0 15px 0 rgb(44, 24, 24);
+    float: left;
+    background-color: rgb(100, 100, 97);
+    color: #fff;
+}
+.video{
+    width: 30%;
+    box-shadow: 0 0 15px 0 rgb(43, 42, 42);
+    float: left;
+    margin: 15px;
+    transition: .4s; 
+}
+.color{
+    width: 30%;
+    box-shadow: 0 0 15px 0 rgb(43, 42, 42);
+    float: left;
+    margin: 15px;
+    transition: .4s;  
+}
+.date{
+    width: 30%;
+    box-shadow: 0 0 15px 0 rgb(43, 42, 42);
+    float: left;
+    margin: 15px;
+    transition: .4s;  
+}
+.range{
+    width: 30%;
+    box-shadow: 0 0 15px 0 rgb(43, 42, 42);
+    float: left;
+    margin: 15px;
+    transition: .4s; 
+}
+input{
+    width: 30%;
+    box-shadow: 0 0 15px 0 rgb(43, 42, 42);
+    float: left;
+    margin: 15px;
+    transition: .4s; 
+}
